@@ -1,4 +1,4 @@
-package tst;//bb
+package tst;//bbcc
 
 public class Test {
 	public static final int BLACK = 0, RED = 1;
